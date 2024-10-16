@@ -23,8 +23,8 @@
        OS  :  Windows 11
       GPU  :  RTX 4090 
       CPU  :  Ryzen 7 5800x
-    Alias  :  hul1g4n
-    Discord : hul1g4n
+    Alias  :  scaramuz1337
+    Discord : scaramouche1337
 
 ###
 
